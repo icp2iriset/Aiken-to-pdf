@@ -1,2 +1,4 @@
 streamlit
 reportlab
+pdf2docx
+python-docx
